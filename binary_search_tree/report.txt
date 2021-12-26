@@ -1,0 +1,18 @@
+Score: 100
+
+== junit ==
+edu.wit.cs.comp2350.grading.A4Grading#test00_InsertSmall: +10
+edu.wit.cs.comp2350.grading.A4Grading#test01_InsertMedium: +5
+edu.wit.cs.comp2350.grading.A4Grading#test02_InsertSeq: +10
+edu.wit.cs.comp2350.grading.A4Grading#test03_InsertRand: +8
+edu.wit.cs.comp2350.grading.A4Grading#test04_NextSmall: +10
+edu.wit.cs.comp2350.grading.A4Grading#test05_NextLarge: +5
+edu.wit.cs.comp2350.grading.A4Grading#test06_NextNil: +5
+edu.wit.cs.comp2350.grading.A4Grading#test07_PrevSmall: +10
+edu.wit.cs.comp2350.grading.A4Grading#test08_PrevLarge: +5
+edu.wit.cs.comp2350.grading.A4Grading#test09_PrevNil: +5
+edu.wit.cs.comp2350.grading.A4Grading#test10_Find: +5
+edu.wit.cs.comp2350.grading.A4Grading#test11_Size: +10
+edu.wit.cs.comp2350.grading.A4Grading#test12_HeightTiny: +3
+edu.wit.cs.comp2350.grading.A4Grading#test13_HeightSmall: +7
+edu.wit.cs.comp2350.grading.A4Grading#test14_PublicMethods: +2
